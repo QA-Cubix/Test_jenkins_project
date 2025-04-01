@@ -11,9 +11,12 @@ namespace JenkinsSampleProject
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
+             Console.ReadLine();
+            Console.WriteLine("Tushar, World!");
+             Console.ReadLine();
+            Console.WriteLine("Chavan, World!");
+             Console.ReadLine();
+            Console.WriteLine("Bye, World!");
             Console.ReadLine();
         }
     }
